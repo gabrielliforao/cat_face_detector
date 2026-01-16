@@ -1,5 +1,5 @@
 "# cat_face_detector" 
-Esse projeto é um detector de expressões do rosto que associa algumas delas e imagens de gatos!
+Esse projeto é um detector de expressões do rosto que associa algumas delas em imagens de gatos!
 Ele calcula distâncias entre pontos do rosto fornecidos pelo MediaPipe, aplicando limiares (thresholds) para interpretar os movimentos faciais.
 Nesse projeto, há as seguintes imagens:
 
